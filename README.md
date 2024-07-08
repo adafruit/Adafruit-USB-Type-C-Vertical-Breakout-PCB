@@ -22,7 +22,7 @@ For most usages, you can connect VBUS to your 5V input, GND to ground, and D+ an
 
 Since this connector is vertical, we give you two identical breakout strips so it will stand flat on a breadboard, plus four mounting holes in case you want to attach this to an enclosure.
 
-]For more details, we like this Introduction to USB C app note.](http://ww1.microchip.com/downloads/en/appnotes/00001953a.pdf)
+[For more details, we like this Introduction to USB C app note.](http://ww1.microchip.com/downloads/en/appnotes/00001953a.pdf)
 
 ### License
 
